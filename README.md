@@ -1,5 +1,5 @@
 # C-Program-Experiment
-my c experimentation / read the readme file for more information
+my c experimentation
 
 this project is for experiments i use it to apply 
 my learning in c from beginner to intermediate level
